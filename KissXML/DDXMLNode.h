@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 
 #ifndef __DDXMLNode_H
-#define __DDXMLNode_H
+#define __DDXMLNode_H   1
 
 @class DDXMLDocument;
 
