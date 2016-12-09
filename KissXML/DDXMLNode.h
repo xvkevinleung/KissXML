@@ -1,5 +1,8 @@
 #import <Foundation/Foundation.h>
 
+#ifndef __DDXMLNode_H
+#define __DDXMLNode_H
+
 @class DDXMLDocument;
 
 /**
@@ -139,3 +142,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 @end
 NS_ASSUME_NONNULL_END
+
+#endif    // __DDXMLNode_H
+
